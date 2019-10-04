@@ -21,7 +21,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-    NSURL *url = [[NSURL alloc] initWithString: @"https://output.jsbin.com/qazamegido"];
+    NSURL *url = [[NSURL alloc] initWithString: @"https://output.jsbin.com/gufocu"];
     NSURLRequest *request = [[NSURLRequest alloc] initWithURL:url];
     [_webView loadRequest:request];
     
